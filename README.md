@@ -2,7 +2,7 @@
 
 Experimenting further with Django by building a blog application, following the tutorial provided by [Django Girls](http://djangogirls.org).
 
-![EXAMPLE](https://github.com/stepholdcorn/blog-application/tree/master/static/images/grab.png)
+![EXAMPLE](https://github.com/stepholdcorn/blog-application/blob/master/static/images/grab.png)
 
 ## Technologies Used
 
