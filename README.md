@@ -14,6 +14,9 @@ Experimenting further with Django by building a blog application, following the 
 
 ## Job List
 
+- [x] User can log in/out
 - [x] Create new blog posts
 - [x] View blog posts on the homepage
 - [x] Edit blog posts
+- [x] Delete blog posts
+- [x] Publish draft blog posts
